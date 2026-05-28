@@ -10,7 +10,7 @@ There is a dev branch for active alpha if you really want
 
 ## Inquiries
 
-To contact me, please email sandlerguy5@gmail.com, or you can open an issue within the "Issues" tab on GitHub.
+To contact me, please email me, or you can open an issue within the "Issues" tab on GitHub.
 
 ## Table of Contents
 
